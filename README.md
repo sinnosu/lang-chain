@@ -3,7 +3,5 @@ learning lang chain library
 
 # getting start project
 ```
-pip3 install langchain openai
-pip3 install python-dotenv
-pip3 install openai
+pipenv install streamlit streamlit-chat langchain openai python-dotenv
 ```
