@@ -1,4 +1,4 @@
-# startup-lang-chain
+# purpose
 learning lang chain library
 
 # getting start project
